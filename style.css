@@ -1,0 +1,25 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    text-align: center;
+}
+.info-container {
+    width: 250px;
+    margin: auto;
+    background: green;
+    padding-bottom: 15px;
+    border-bottom: 2px solid black;
+}
+
+.color-button {
+    margin-right: 20px;
+}
+
+#init-button {
+    margin-top: 25px;
+    width: 200px;
+    height: 50px;
+}
